@@ -8,3 +8,5 @@
 ````
 adb shell "echo '_ --disable-digital-asset-link-verification-for-url=\"https://nns.ngrok.io\"' > /data/local/tmp/chrome-command-line"
 ````
+
+https://developers.google.com/web/updates/2019/08/twas-quickstart

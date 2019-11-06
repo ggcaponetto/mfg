@@ -29,5 +29,7 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
-    implementation 'com.github.GoogleChrome.custom-tabs-client:customtabs:91b4a1270b'
+    // implementation 'com.github.GoogleChrome.custom-tabs-client:customtabs:91b4a1270b'
+    implementation 'androidx.browser:browser:1.0.0'
+    implementation 'com.github.GoogleChrome:android-browser-helper:ff8dfc4ed3d4133aacc837673c88d090d3628ec8'
 }
